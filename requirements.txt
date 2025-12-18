@@ -1,7 +1,6 @@
 streamlit==1.37.1
 pillow==10.4.0
 pytesseract==0.3.10
-openai==1.40.0
 scikit-learn==1.4.2
 joblib==1.4.2
 pandas==2.2.2
